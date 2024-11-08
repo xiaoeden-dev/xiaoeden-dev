@@ -2,7 +2,7 @@
 
 Hi there 👋, I'm **Eden** (also known as **Xiao_Eden** in some circles). I'm a passionate **Minecraft** enthusiast, **tech lover**, and aspiring to work in the **tech field**. This repository will showcase my projects, experiments, and anything cool that I learn along the way!
 
-![Banner Image](https://your-image-link.com/banner.jpg) <!-- You can add a banner image here -->
+![Banner Image]([https://your-image-link.com/banner.jpg](https://tenor.com/view/anime-sakura-japan-spring-gloomy-gif-17155071)) <!-- You can add a banner image here -->
 
 ## About Me
 
