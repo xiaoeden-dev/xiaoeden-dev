@@ -3,8 +3,8 @@
 Hi there 👋, I'm **Eden** (also known as **Xiao_Eden** in some circles). I'm a passionate **Minecraft** enthusiast, **tech lover**, and aspiring to work in the **tech field**. This repository will showcase my projects, experiments, and anything cool that I learn along the way!
 
 <div align="center">
-  <img src="(https://cdn.discordapp.com/attachments/1301578990297026593/1304529783413276703/image_1.png?ex=672fb989&is=672e6809&hm=6b241ba8d3eab7f3360341106c1ff52b6e73bfb2b63ebe3e5d0be2e271b22a6e&)" alt="Banner" width="300" style="float:left; margin-right: 20px;" />
-  <div style="background-image: url('https://cdn.discordapp.com/attachments/1301578990297026593/1304532383076319272/6dae504254d8a091.jpeg?ex=672fbbf5&is=672e6a75&hm=528983023ba40246ea24f5be12f46d70efe4157ebdc2a939feed8af79747c069&'); background-size: cover; background-position: center; padding: 20px; width: 100%; height: 200px; color: white; text-align: center;">
+  <img src="https://cdn.discordapp.com/attachments/1301578990297026593/1304761918707208192/image_3.png?ex=673091ba&is=672f403a&hm=6d9eb5465a4e2c4b0946273a909cdebca2733ddab5715531a6ced1d9c302137e&" alt="Avatar" width="150" style="border-radius: 50%; margin-bottom: 20px;" />
+  <div style="background-image: url('https://cdn.discordapp.com/attachments/1301578990297026593/1304532383076319272/6dae504254d8a091.jpeg?ex=673064b5&is=672f1335&hm=9c0c1171f48bc0668b58840e9cf82b46b13a9b8e66654203071feab0d176a734&'); background-size: cover; background-position: center; padding: 20px; width: 100%; height: 200px; color: white; text-align: center;">
     <h1 style="font-size: 50px;">Eden</h1>
   </div>
 </div>
