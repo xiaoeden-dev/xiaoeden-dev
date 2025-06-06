@@ -30,7 +30,7 @@ Everything here is a work in progress. I build as I learn.
 
 If you want to get in touch:
 
-- 📧 **Email:** [edenextrasm@gmail.com](mailto:edenextrasm@gmail.com)
+- 📧 **Email:** [naduneden@gmail.com](mailto:naduneden@gmail.com)
 - 💬 **Discord:** `notxiaoeden`
 
 ---
